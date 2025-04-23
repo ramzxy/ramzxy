@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Bug Bounty and reverse engineering**
 
-- 👨‍💻 All of my projects are available at [rmxzy.com](rmxzy.com)
+- 👨‍💻 My website is available at [rmxzy.com](rmxzy.com)
 
-- 📝 I regularly write articles on [blog.rmxzy.com](blog.rmxzy.com)
+- 📝 I regularly write articles on [My Blog](blog.rmxzy.com)
 
 - 📫 How to reach me **me@rmxzy.com**
 
@@ -20,7 +20,6 @@
 <a href="https://twitter.com/ramsythedream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramsythedream" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ilia mirzaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilia mirzaali" height="30" width="40" /></a>
 <a href="https://instagram.com/mirza.ilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirza.ilia" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/pyllqhjsesbuy5d9.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/pyllqhjsesbuy5d9.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

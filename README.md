@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Lisan al Gaib - لسان الغیب</h4>
+<h4 align="left">Persian </h4>
 
 ###
 

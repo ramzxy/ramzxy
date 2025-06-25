@@ -2,7 +2,10 @@
 
 ###
 
-<h4 align="left">Persian </h4>
+> “I sent my Soul through the Invisible,  
+Some letter of that After-life to spell:  
+And by and by my Soul returned to me,  
+And answered: 'I Myself am Heaven and Hell”
 
 ###
 

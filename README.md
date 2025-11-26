@@ -13,7 +13,7 @@ And answered: 'I Myself am Heaven and Hell”
 
 ###
 
-<p align="left">✨ Hacking fortnite accounts since 13<br>📚 Team lead @ TheQuickSport/p>
+<p align="left">✨ Hacking fortnite accounts since 13<br>📚 Team lead @ TheQuickSport /p>
 
 ###
 
